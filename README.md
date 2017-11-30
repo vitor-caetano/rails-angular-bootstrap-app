@@ -5,3 +5,6 @@
 ```
 brew install yarn
 ```
+```
+rails webpacker:install
+```
